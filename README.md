@@ -1,3 +1,5 @@
+![complete-omarchy-blackshield](.github/preview.png)
+
 # Complete Omarchy Blackshield
 
 ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
